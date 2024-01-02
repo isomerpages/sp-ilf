@@ -11,13 +11,13 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: About ILF
-          description: Important highlight A is important
+          description: ""
           url: https://google.com
         - title: Programme Overview
-          description: Important highlight B is equally important
+          description: ""
           url: https://gmail.com
         - title: Breakout Sessions
-          description: Page A is important too
+          description: ""
           url: /privacy/
       button: Register Now
   - infobar:
