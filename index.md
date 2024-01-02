@@ -19,6 +19,7 @@ sections:
         - title: Breakout Sessions
           description: Page A is important too
           url: /privacy/
+      button: Register Now
   - infobar:
       title: Infobar title
       subtitle: Subtitle
