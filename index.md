@@ -7,9 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      subtitle: Theme
       background: /images/International_Learning_Festival__1_.png
-      button: Register Now
       url: /contact-us/
       key_highlights:
         - title: About ILF
