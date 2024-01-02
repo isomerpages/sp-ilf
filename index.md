@@ -16,7 +16,7 @@ sections:
         - title: Programme Overview
           description: ""
           url: https://gmail.com
-        - title: Breakout Sessions
+        - title: EETC 24 (SP staff only)
           description: ""
           url: /privacy/
       button: Register Now
