@@ -16,7 +16,7 @@ sections:
         - title: Programme Overview
           description: ""
           url: https://gmail.com
-        - title: EETC 24 (SP staff only)
+        - title: Contact Us
           description: ""
           url: /privacy/
       button: Register Now
