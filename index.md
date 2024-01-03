@@ -37,7 +37,7 @@ sections:
         - title: ISATE 2024
           description: Lorem Ipsum sit amet
           linktext: Learn more
-          url: ""
+          url: https://staging.d2u4b8p42fwjg4.amplifyapp.com/
         - title: CDIO
           description: Lorem Ipsum sit amet
           linktext: Learn more
