@@ -19,6 +19,7 @@ sections:
         - title: Contact Us
           description: ""
           url: /privacy/
+      variant: image
   - infobar:
       title: Join Us
       description: Discover the latest and most innovative trend in EDUCATION. Expert
