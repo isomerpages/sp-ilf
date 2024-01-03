@@ -19,11 +19,26 @@ sections:
         - title: Contact Us
           description: ""
           url: /privacy/
-      button: Register Now
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Join Us
+      description: Discover the latest and most innovative trend in EDUCATION. Expert
+        Speakers from around the globe.
+      button: Learn more
       url: /faq/
+  - textcards:
+      title: Highlights
+      id: textcards
+      cards:
+        - title: EETC 24
+          description: Lorem Ipsum sit amet
+          linktext: Learn more
+          url: ""
+        - title: ISATE 2024
+          description: Lorem Ipsum sit amet
+          linktext: Learn more
+          url: ""
+        - title: CDIO
+          description: Lorem Ipsum sit amet
+          linktext: Learn more
+          url: ""
 ---
