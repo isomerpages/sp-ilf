@@ -33,7 +33,7 @@ sections:
         - title: EETC 24
           description: Lorem Ipsum sit amet
           linktext: Learn more
-          url: ""
+          url: https://www.sp.edu.sg/eetc2024/
         - title: ISATE 2024
           description: Lorem Ipsum sit amet
           linktext: Learn more
