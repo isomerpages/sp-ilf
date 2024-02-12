@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/International_Learning_Festival_logo_banner.png
+      background: /images/International_Learning_Festival_logo_banner__3_.png
       url: /contact-us/
       key_highlights:
         - title: About ILF
