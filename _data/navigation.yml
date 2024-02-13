@@ -1,8 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About ILF
-    url: /example-page/
-  - title: About Folder
-    collection: about-folder
+    url: /aboutilf/
+  - title: Programme Overview
+    url: /permalink
   - title: Contact Us
     url: /contact-us/
