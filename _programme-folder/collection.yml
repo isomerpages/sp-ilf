@@ -1,5 +1,4 @@
 collections:
   programme-folder:
     output: true
-    order:
-      - Programme Overview.md
+    order: []
