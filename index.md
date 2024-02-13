@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: About ILF
           description: ""
-          url: https://google.com
+          url: /aboutilf/
         - title: Programme Overview
           description: ""
           url: https://ichatspedu.sharepoint.com/:w:/r/teams/GlobalLearningFestival2024FromM365/Shared%20Documents/General/Publicity/ILF%20Webpage/ILF%20Webpage%20Brief1.docx?d=w5dcf9b9cb0774864a2ab673e69ca21ad&csf=1&web=1&e=cBRl7a
