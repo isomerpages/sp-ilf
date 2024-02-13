@@ -15,7 +15,7 @@ sections:
           url: https://google.com
         - title: Programme Overview
           description: ""
-          url: https://gmail.com
+          url: https://www.sp.edu.sg/ilfprogramme/
         - title: Contact Us
           description: ""
           url: /privacy/
