@@ -2,7 +2,6 @@ collections:
   about-folder:
     output: true
     order:
-      - About ILF.md
       - folder-page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
