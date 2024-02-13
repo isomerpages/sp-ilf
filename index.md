@@ -41,5 +41,5 @@ sections:
         - title: CDIO
           description: Lorem Ipsum sit amet
           linktext: Learn more
-          url: ""
+          url: http://www.cdio.org/
 ---
