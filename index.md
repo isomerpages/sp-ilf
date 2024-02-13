@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/International_Learning_Festival_logo_banner__3_.png
+      background: /images/ILF_Banner_blueBG1.png
       url: /contact-us/
       variant: image
   - infobar:
