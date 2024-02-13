@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero_ILF_copy.png
+      background: /images/Hero_ILF_copy1.png
       url: /contact-us/
       variant: image
   - infobar:
