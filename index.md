@@ -31,7 +31,7 @@ sections:
       id: textcards
       cards:
         - title: EETC 24
-          description: Lorem Ipsum sit amet
+          description: Only for SP participants
           linktext: Learn more
           url: https://www.sp.edu.sg/eetc2024/
         - title: ISATE 2024
