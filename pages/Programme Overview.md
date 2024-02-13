@@ -46,138 +46,130 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Time (hrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Activity</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>By 0830</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Arrival &amp; Registration</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>0845 - 0900</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>ILF 2024 Opening Ceremony</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>0900 - 0910</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Opening Address by PCEO Mr Soh Wai Wah/SP</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>0910 - 0920</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Address by GOH Dr Maliki Osman/ Second Minister for Education</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>0920 - 1020</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Keynote Presentation - Dr Ruth Graham</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1020 - 1050</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Networking Break</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1050 - 1135</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Keynote Presentation - Prof Kristina Edstrom</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1135 - 1220</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Keynote Presentation - Dr Ong Yew Soon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1220 - 1230</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Briefing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1230 - 1400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Networking Lunch</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1400 - 1530</p>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>ISATE/EETC Paper Presentations</p>
+</li>
+<li>
+<p>Workshop conducted by Dr Ruth Graham (Selected participants only)</p>
+</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1530 - 1600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Networking Break</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1600 - 1730</p>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>ISATE/EETC Paper Presentations</p>
+</li>
+<li>
+<p>Workshop conducted by Dr Ruth Graham (Selected participants only)</p>
+</li>
+</ol>
 </td>
 </tr>
 </tbody>
