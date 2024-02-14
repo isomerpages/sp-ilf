@@ -9,7 +9,8 @@ sections:
   - hero:
       background: /images/hero-banner.png
       url: /contact-us/
-      variant: image
+      variant: center
+      title: International Learning Festival 2024
   - infobar:
       title: Join Us
       description: Discover the latest and most innovative trend in EDUCATION. Expert
