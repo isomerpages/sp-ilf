@@ -15,6 +15,14 @@ sections:
       title: ISATE 2024
       id: infopic
       alt: Image alt text
+      image: /images/ISATE_logo.png
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - infobar:
       title: Sign up for ILF 2024
       description: >-
