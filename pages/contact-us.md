@@ -25,8 +25,13 @@ contacts:
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: ahmad_al-mahir_abu_bakar@sp.edu.sg
       - other: ""
-    title: Careers
+    title: Ahmad Abu Bakar (Chair)
+  - content:
+      - phone: ""
+      - email: ""
+      - other: ""
+    title: Lim Yi Yan (Co-Chair)
 feedback: ""
 ---
