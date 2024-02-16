@@ -174,4 +174,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>End of Day 1</p>
