@@ -12,15 +12,12 @@ sections:
       variant: center
       title: International Learning Festival 2024
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: ISATE 2024
       id: infopic
-      description: Infopic description
-      button: Button Text
       alt: Image alt text
   - infobar:
       title: Sign up for ILF 2024
-      description: >
+      description: >-
         For SP Staff, please register your participation via Workday. 
 
         For international partners, please refer to your respective contacts for more information.
