@@ -11,6 +11,9 @@ sections:
       url: /contact-us/
       variant: image
       title: International Learning Festival 2024
+  - infobar:
+      title: Our Partners
+      id: infobar
   - infopic:
       id: infopic
       alt: Image alt text
