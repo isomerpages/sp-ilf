@@ -7,9 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/Hero_ILF_wave.png
       url: /contact-us/
-      variant: center
+      variant: side
       title: International Learning Festival 2024
   - infopic:
       id: infopic
