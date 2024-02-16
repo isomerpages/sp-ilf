@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Hero_ILF_wave.png
       url: /contact-us/
-      variant: side
+      variant: image
       title: International Learning Festival 2024
   - infopic:
       id: infopic
