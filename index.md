@@ -56,6 +56,5 @@ sections:
         For SP Staff, please register your participation via Workday. 
 
         For international partners, please refer to your respective contacts for more information.
-      button: Learn more
       url: /faq/
 ---
