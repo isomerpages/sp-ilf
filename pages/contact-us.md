@@ -10,18 +10,15 @@ locations:
       - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
+        time: 8:30am - 5:30pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
     maps_link: ""
     title: Main Office - EDU
 contacts:
   - content:
-      - phone: +65 6123 4567
+      - phone: ""
       - email: enquiries_ilf@sp.edu.sg
-      - other: Any text here <i>including HTML</i>
+      - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: ""
@@ -30,7 +27,7 @@ contacts:
     title: Ahmad Abu Bakar (Chair)
   - content:
       - phone: ""
-      - email: ""
+      - email: lim_yi_yan@sp.edu.sg
       - other: ""
     title: Lim Yi Yan (Co-Chair)
 feedback: ""
