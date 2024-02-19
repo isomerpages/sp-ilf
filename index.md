@@ -13,8 +13,9 @@ sections:
       title: International Learning Festival 2024
   - infobar:
       id: infobar
-      description: ILF 2024 is a special event as part of Singapore Polytechnic’s 70th
-        anniversary celebration
+      description: Bringing educators together to celebrate teaching and learning,
+        connect to a wider community and collaborate in the areas of AI and
+        Sustainability in Education
   - infopic:
       id: infopic
       alt: Image alt text
