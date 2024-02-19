@@ -6,8 +6,8 @@ agency_name: ILF Commitee
 locations:
   - address:
       - 500 Dover Rd, Singapore 139651
-      - T4A Level 4
-      - ""
+      - "T4A "
+      - Level 4
     operating_hours:
       - days: Mon - Fri
         time: 8:30am - 5:30pm
