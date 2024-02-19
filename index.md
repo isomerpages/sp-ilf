@@ -12,8 +12,9 @@ sections:
       variant: image
       title: International Learning Festival 2024
   - infobar:
-      title: Our Partners
       id: infobar
+      description: "ILF 2024 is a special event as part of Singapore Polytechnic’s
+        70th anniversary celebration "
   - infopic:
       id: infopic
       alt: Image alt text
