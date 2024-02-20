@@ -28,7 +28,7 @@ sections:
       id: infopic
       button: Learn More
       alt: Image alt text
-      image: /images/CDIO_with_text_trans.png
+      image: /images/ACDIO_IWM_logo_1x.png
       url: http://www.cdio.org/
       description: The CDIO™ INITIATIVE is an innovative educational framework for
         producing the next generation of engineers.
