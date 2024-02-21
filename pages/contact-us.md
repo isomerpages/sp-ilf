@@ -20,15 +20,5 @@ contacts:
       - email: enquiries_ilf@sp.edu.sg
       - other: ""
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: ahmad_al-mahir_abu_bakar@sp.edu.sg
-      - other: ""
-    title: Ahmad Abu Bakar (Chair)
-  - content:
-      - phone: ""
-      - email: lim_yi_yan@sp.edu.sg
-      - other: ""
-    title: Lim Yi Yan (Co-Chair)
 feedback: ""
 ---
