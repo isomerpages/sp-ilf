@@ -2,11 +2,11 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: ILF Commitee
+agency_name: ILF Committee
 locations:
   - address:
       - 500 Dover Rd, Singapore 139651
-      - "T4A "
+      - T4A
       - Level 4
     operating_hours:
       - days: Mon - Fri
