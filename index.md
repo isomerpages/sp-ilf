@@ -2,7 +2,7 @@
 layout: homepage
 title: International Learning Festival 2024
 description: An Isomer site of the Singapore Government
-image: /images/ILF_ico_2x.png
+image: /images/ILF_icon.png
 permalink: /
 notification: ""
 sections:
