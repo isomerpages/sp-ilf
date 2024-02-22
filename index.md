@@ -43,7 +43,7 @@ sections:
   - infopic:
       id: infopic
       button: Learn More
-      url: https://www.sp.edu.sg/eetc2024/
+      url: https://ichatspedu.sharepoint.com/teams/EETC2024?market=en-US
       image: /images/EETC24_logo_new.png
       alt: Image alt text
       description: The event that recognizes the contributions of educators and all
