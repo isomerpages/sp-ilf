@@ -1,6 +1,6 @@
 title: International Learning Festival 2024
 url: https://www.sp.edu.sg
-favicon: /images/ILF_ico_2x.png
+favicon: /images/ILF_icon.png
 colors:
   primary-color: "#3734f4"
   secondary-color: "#4372d6"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.dlcic5kdvh5np.amplifyapp.com
 prod: https://master.d2u4b8p42fwjg4.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/ILF_ico_2x.png
+shareicon: /images/ILF_icon.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
