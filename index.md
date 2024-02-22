@@ -9,8 +9,7 @@ sections:
   - hero:
       background: /images/Hero_ILF_wave.png
       url: /contact-us/
-      variant: image
-      title: International Learning Festival 2024
+      variant: center
   - infobar:
       id: infobar
       description: Bringing educators together to celebrate teaching and learning,
