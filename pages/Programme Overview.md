@@ -170,7 +170,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 0845</p>
+<p>0900 - 1730</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Arrival &amp; Registration</p>
@@ -178,7 +178,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>0900 - 1030</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISATE Paper Presentations &amp; IWM Sessions</p>
@@ -186,7 +186,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1030 - 1100</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Roundtable Discussion</p>
@@ -194,7 +194,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1100 - 1230</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ILF 2024 Closing Ceremony</p>
