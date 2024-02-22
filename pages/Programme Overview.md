@@ -164,7 +164,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>Thu 26 Sep 2024 </strong>
+<p><strong>Thu 26 Sep 2024</strong>
 </p>
 </th>
 </tr>
