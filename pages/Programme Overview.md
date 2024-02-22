@@ -14,7 +14,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1315 - 1730</p>
+<p>1330 - 1730</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>EETC 2024 (Opened only to SP Staff and invited guests)</p>
