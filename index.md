@@ -28,7 +28,7 @@ sections:
       button: Learn More
       alt: Image alt text
       image: /images/ACDIO_IWM_logo_1x.png
-      url: http://www.cdio.org/
+      url: https://sp-cdio-centreforteaching.sp.edu.sg/cdio-iwm-2024/
       description: The CDIO™ INITIATIVE is an innovative educational framework for
         producing the next generation of engineers.
   - infopic:
