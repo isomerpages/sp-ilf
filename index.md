@@ -29,8 +29,8 @@ sections:
       alt: Image alt text
       image: /images/ACDIO_IWM_logo_1x.png
       url: https://sp-cdio-centreforteaching.sp.edu.sg/cdio-iwm-2024/
-      description: "The focus of the International Working Meeting is the development
-        of the CDIO organization. "
+      description: The focus of the International Working Meeting is the development
+        of the CDIO organization.
   - infopic:
       id: infopic
       button: Learn More
