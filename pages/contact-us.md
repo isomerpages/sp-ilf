@@ -17,7 +17,7 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: enquiries_ilf@sp.edu.sg
+      - email: ilf_admin@sp.edu.sg
       - other: ""
     title: General Enquiries & Feedback
 feedback: ""
