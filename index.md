@@ -50,6 +50,12 @@ sections:
         who help create a conducive learning environment in Singapore
         Polytechnic.
   - infobar:
+      title: EETC 2023
+      id: infobar
+      description: "Access last year's event website here:"
+      button: Learn more
+      url: https://ichatspedu.sharepoint.com/sites/EETC2023
+  - infobar:
       title: Sign up for ILF 2024
       description: >-
         For SP Staff, please register your participation via Workday. 
