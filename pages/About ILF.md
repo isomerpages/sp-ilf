@@ -21,7 +21,7 @@ with an anticipated 200 participants, seeks to share best practices in
 the use of technology in enhancing student learning.</p>
 </li>
 <li>
-<p><a href="https://www.sp.edu.sg/engineering-cluster/eee/life-@-eee/learning-express" rel="noopener noreferrer nofollow" target="_blank">The Learning Express (LeX) Conference</a> will
+<p><a href="/lex2024/" rel="noopener noreferrer nofollow" target="_blank">The Learning Express (LeX) Conference</a> will
 bring together about 180 leaders/rectors from SP and 33 partner universities/institutions
 in the region involved in SP’s Learning Express student exchange programmes.</p>
 </li>
