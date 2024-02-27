@@ -36,4 +36,5 @@ in 2013.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
 </div>
-<p></p>
+<p>For more information, please contact <a href="mailto:frank_lee@spi.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Frank Lee</a>
+</p>
