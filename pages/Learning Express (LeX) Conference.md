@@ -25,11 +25,10 @@ best practices. The Learning Express Conference 2024 also serves as an
 opportune occasion to commemorate 10 years of LeX since it was started
 in 2013.</p>
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/infographics_circles_2x.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/infographics_circles_2x.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
 </div>
