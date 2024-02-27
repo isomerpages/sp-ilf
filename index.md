@@ -34,7 +34,7 @@ sections:
   - infopic:
       id: infopic
       button: Learn More
-      url: https://www.sp.edu.sg/engineering-cluster/eee/life-@-eee/learning-express
+      url: /lex/
       image: /images/LeX_round_logo_2x.png
       alt: Image alt text
       description: Learning Express (LeX) is a 12-day programme that uses Design
