@@ -34,12 +34,12 @@ sections:
   - infopic:
       id: infopic
       button: Learn More
-      url: /lex/
+      url: /lex2024/
       image: /images/LeX_round_logo_2x.png
       alt: Image alt text
-      description: Learning Express (LeX) is a 12-day programme that uses Design
-        Thinking to uncover insights and identify unmet needs of overseas
-        grassroots communities.
+      description: LeX conference brings together 180 top leaders, senior management,
+        and specialists from the LeX program to commemorate 10 years of LeX
+        milestones.
   - infopic:
       id: infopic
       button: Learn More
