@@ -29,8 +29,8 @@ sections:
       alt: Image alt text
       image: /images/ACDIO_IWM_logo_1x.png
       url: https://sp-cdio-centreforteaching.sp.edu.sg/cdio-iwm-2024/
-      description: The CDIO™ INITIATIVE is an innovative educational framework for
-        producing the next generation of engineers.
+      description: "The focus of the International Working Meeting is the development
+        of the CDIO organization. "
   - infopic:
       id: infopic
       button: Learn More
