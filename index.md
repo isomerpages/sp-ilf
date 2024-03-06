@@ -18,7 +18,7 @@ sections:
   - infopic:
       id: infopic
       alt: Image alt text
-      image: /images/ISATE_logo.png
+      image: /images/ISATE_logo_75.png
       button: Learn More
       url: https://isate2024.sp.edu.sg/
       description: ISATE stands for the International Symposium on Advances in
@@ -27,7 +27,7 @@ sections:
       id: infopic
       button: Learn More
       alt: Image alt text
-      image: /images/ACDIO_IWM_logo_70.png
+      image: /images/ACDIO_IWM_logo_60.png
       url: https://sp-cdio-centreforteaching.sp.edu.sg/cdio-iwm-2024/
       description: The focus of the International Working Meeting is the development
         of the CDIO organization.
@@ -44,7 +44,7 @@ sections:
       id: infopic
       button: Learn More
       url: https://ichatspedu.sharepoint.com/teams/EETC2024?market=en-US
-      image: /images/EETC24_logo_new_80.png
+      image: /images/EETC24_logo_new_75.png
       alt: Image alt text
       description: The event that recognizes the contributions of educators and all
         who help create a conducive learning environment in Singapore
