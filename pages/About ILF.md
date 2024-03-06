@@ -4,13 +4,13 @@ permalink: /aboutilf/
 variant: tiptap
 description: ""
 ---
-<h4>In lieu with the celebration of Singapore Polytechnic’s 70th anniversary, ILF 2024 seeks to bring educational practitioners and partners together to celebrate teaching and learning achievements, connect to a wider academic community and collaborate to advance T&amp;L practices in the area of Artificial Intelligence and Sustainability in Education.</h4>
-<h4>The theme of ILF 2024 is <strong>Evolving Teaching and Learning in the Age of Artificial Intelligence &amp; Sustainability</strong>.</h4>
+<h4>In line with Singapore Polytechnic’s 70th anniversary celebrations, ILF 2024 seeks to bring educational practitioners and partners together to celebrate teaching and learning achievements, connect to a wider academic community and collaborate to advance T&amp;L practices in the area of Artificial Intelligence and Sustainability in Education.</h4>
+<h4>The theme for ILF 2024 is <strong>Evolving Teaching and Learning in the Age of Artificial Intelligence &amp; Sustainability</strong>.</h4>
 <h4>ILF 2024 will celebrate the following achievements of our local community and international partners:</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Excellence in Education &amp; Teaching Convention – an annual SP event
-that celebrates the achievements of our education teaching</p>
+<p>Excellence in Education &amp; Teaching Convention (EETC) – an annual SP
+event that celebrates the achievements of our education teaching</p>
 </li>
 <li>
 <p><a href="https://isate2024.sp.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">The International Symposium for Advances in Technology Education (ISATE)</a> –
