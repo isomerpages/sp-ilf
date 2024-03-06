@@ -27,7 +27,7 @@ sections:
       id: infopic
       button: Learn More
       alt: Image alt text
-      image: /images/ACDIO_IWM_logo_1x.png
+      image: /images/ACDIO_IWM_logo_75.png
       url: https://sp-cdio-centreforteaching.sp.edu.sg/cdio-iwm-2024/
       description: The focus of the International Working Meeting is the development
         of the CDIO organization.
@@ -35,7 +35,7 @@ sections:
       id: infopic
       button: Learn More
       url: /lex2024/
-      image: /images/LeX_round_logo_2x.png
+      image: /images/LeX_1x.png
       alt: Image alt text
       description: LeX conference brings together 180 top leaders, senior management,
         and specialists from the LeX program to commemorate 10 years of LeX
@@ -44,7 +44,7 @@ sections:
       id: infopic
       button: Learn More
       url: https://ichatspedu.sharepoint.com/teams/EETC2024?market=en-US
-      image: /images/EETC24_logo_new.png
+      image: /images/EETC24_logo_new_75.png
       alt: Image alt text
       description: The event that recognizes the contributions of educators and all
         who help create a conducive learning environment in Singapore
