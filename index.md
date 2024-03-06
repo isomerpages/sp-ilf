@@ -18,7 +18,7 @@ sections:
   - infopic:
       id: infopic
       alt: Image alt text
-      image: /images/ISATE_logo_75.png
+      image: /images/ISATE_logo_40.png
       button: Learn More
       url: https://isate2024.sp.edu.sg/
       description: ISATE stands for the International Symposium on Advances in
@@ -27,7 +27,7 @@ sections:
       id: infopic
       button: Learn More
       alt: Image alt text
-      image: /images/ACDIO_IWM_logo_60.png
+      image: /images/ACDIO_IWM_logo_40.png
       url: https://sp-cdio-centreforteaching.sp.edu.sg/cdio-iwm-2024/
       description: The focus of the International Working Meeting is the development
         of the CDIO organization.
@@ -35,7 +35,7 @@ sections:
       id: infopic
       button: Learn More
       url: /lex2024/
-      image: /images/LeX_60.png
+      image: /images/LeX_40.png
       alt: Image alt text
       description: LeX conference brings together 180 top leaders, senior management,
         and specialists from the LeX program to commemorate 10 years of LeX
@@ -44,7 +44,7 @@ sections:
       id: infopic
       button: Learn More
       url: https://ichatspedu.sharepoint.com/teams/EETC2024?market=en-US
-      image: /images/EETC24_logo_new_75.png
+      image: /images/EETC24_logo_new_40.png
       alt: Image alt text
       description: The event that recognizes the contributions of educators and all
         who help create a conducive learning environment in Singapore
