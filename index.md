@@ -18,7 +18,7 @@ sections:
   - infopic:
       id: infopic
       alt: Image alt text
-      image: /images/ISATE_logo_20.png
+      image: /images/ISATE_2024_short_25.png
       button: Learn More
       url: https://isate2024.sp.edu.sg/
       description: ISATE stands for the International Symposium on Advances in
