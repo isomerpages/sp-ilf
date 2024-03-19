@@ -1,15 +1,8 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/ILF_logo_text_2_2x.png
 links:
+  - title: About ILF
+    url: /aboutilf/
+  - title: Programme Overview
+    url: /ilfprogramme/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
