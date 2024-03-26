@@ -2,8 +2,8 @@ title: International Learning Festival 2024
 url: https://www.sp.edu.sg
 favicon: /images/ILF_icon.png
 colors:
-  primary-color: "#9b9b9b"
-  secondary-color: "#4a4a4a"
+  primary-color: "#4a4a4a"
+  secondary-color: "#000000"
   media-colors:
     - title: media-color-one
       color: "#49759a"
