@@ -3,7 +3,7 @@ url: https://www.sp.edu.sg
 favicon: /images/ILF_icon.png
 colors:
   primary-color: "#4a4a4a"
-  secondary-color: "#000000"
+  secondary-color: "#9b9b9b"
   media-colors:
     - title: media-color-one
       color: "#49759a"
