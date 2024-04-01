@@ -1,7 +1,7 @@
 ---
 title: About ILF
 permalink: /aboutilf/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4>In line with Singapore Polytechnic’s 70th anniversary celebrations, ILF 2024 seeks to bring educational practitioners and partners together to celebrate teaching and learning achievements, connect to a wider academic community and collaborate to advance T&amp;L practices in the area of Artificial Intelligence and Sustainability in Education.</h4>
