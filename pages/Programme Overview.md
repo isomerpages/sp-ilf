@@ -126,7 +126,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Sharing by Asst. Prof Eric Chua</p>
+<p>Keynote Sharing by Assoc. Prof Eric Chua</p>
 </td>
 </tr>
 <tr>
