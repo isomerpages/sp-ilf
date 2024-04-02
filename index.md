@@ -56,11 +56,4 @@ sections:
       description: "Access last year's event website here:"
       button: Learn more
       url: https://ichatspedu.sharepoint.com/sites/EETC2023
-  - infobar:
-      title: Sign up for ILF 2024
-      description: >-
-        For SP Staff, please register your participation via Workday. 
-
-        For international partners, please refer to your respective contacts for more information.
-      url: /faq/
 ---
