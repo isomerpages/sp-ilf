@@ -42,14 +42,13 @@ sections:
         milestones.
   - infopic:
       id: infopic
-      button: Learn More
       url: https://ichatspedu.sharepoint.com/teams/EETC2024?market=en-US
       image: /images/EETC24_logo_new_40.png
       alt: Image alt text
       description: The event that recognizes the contributions of educators and all
         who help create a conducive learning environment in Singapore
         Polytechnic.
-      subtitle: Under Construction
+      subtitle: Website Coming Soon!
   - infobar:
       title: EETC 2023
       id: infobar
