@@ -103,7 +103,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISATE Paper Presentations &amp; IWM Sessions</p>
+<p>ISATE Paper Presentations</p>
 </td>
 </tr>
 <tr>
