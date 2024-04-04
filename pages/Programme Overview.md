@@ -17,7 +17,7 @@ description: ""
 <p>1330 - 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>EETC 2024 (Opened only to SP Staff and invited guests)</p>
+<p>EETC 2024 (Open only to SP Staff and invited guests)</p>
 </td>
 </tr>
 <tr>
@@ -63,6 +63,14 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>ISATE speech by President Shunichi Taniai/NIT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Address by GOH Dr Maliki Osman/ Second Minister for Education</p>
 </td>
 </tr>
@@ -79,7 +87,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Presentation - Prof Kristina Edstrom</p>
+<p>Keynote Presentation - Prof Kristina Edström</p>
 </td>
 </tr>
 <tr>
