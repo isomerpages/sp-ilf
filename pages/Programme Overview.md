@@ -150,7 +150,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Exhibition: GenAI Projects</p>
+<p>Exhibition: Gen AI for Teaching &amp; Learning</p>
 </td>
 </tr>
 <tr>
