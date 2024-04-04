@@ -246,6 +246,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Please check back soon for more details.</p>
 <p></p>
 <p></p>
