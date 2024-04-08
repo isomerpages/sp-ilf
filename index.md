@@ -58,6 +58,7 @@ sections:
         who help create a conducive learning environment in Singapore
         Polytechnic.
       subtitle: Website Coming Soon!
+      title: EETC
   - infobar:
       title: EETC 2023
       id: infobar
