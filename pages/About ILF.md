@@ -4,9 +4,9 @@ permalink: /aboutilf/
 variant: tiptap
 description: ""
 ---
-<h4>In conjunction with Singapore Polytechnic’s 70th anniversary celebrations, ILF 2024 seeks to bring educational practitioners and partners together to celebrate teaching and learning achievements, connect to a wider academic community and collaborate to advance T&amp;L practices in the area of Artificial Intelligence and Sustainability in Education.</h4>
+<h4>In conjunction with Singapore Polytechnic's 70th anniversary celebrations, ILF 2024 seeks to bring educational practitioners and partners together to celebrate teaching and learning achievements, connect with a wider academic community and collaborate to advance T&amp;L practices in the area of AI and Sustainability in Education.</h4>
 <h4>The theme for ILF 2024 is <strong>Evolving Teaching and Learning in the Age of AI &amp; Sustainability.</strong></h4>
-<h4>ILF 2024 will bring educators together to celebrate excellence in teaching and learning, connect with like-minded passionate educators and allow for potential collaboration in the areas of AI and Sustainability in Education. This event sees the attendance of the following partners:​</h4>
+<h4>This event sees the attendance of the following partners:</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p></p>
