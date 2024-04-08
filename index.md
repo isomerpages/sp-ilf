@@ -15,6 +15,7 @@ sections:
       description: Bringing educators together to celebrate teaching and learning,
         connect to a wider community and collaborate in the areas of AI and
         Sustainability in Education
+      title: ILF 2024 Theme
   - infopic:
       id: infopic
       alt: Image alt text
@@ -23,6 +24,8 @@ sections:
       url: https://isate2024.sp.edu.sg/
       description: ISATE stands for the International Symposium on Advances in
         Technology Education.
+      subtitle: ILF 2024 PARTNERS
+      title: ISATE
   - infopic:
       id: infopic
       button: Learn More
@@ -31,6 +34,8 @@ sections:
       url: https://sp-cdio-centreforteaching.sp.edu.sg/cdio-iwm-2024/
       description: The focus of the International Working Meeting is the development
         of the CDIO organization.
+      subtitle: ILF 2024 PARTNERS
+      title: CDIO
   - infopic:
       id: infopic
       button: Learn More
@@ -40,6 +45,8 @@ sections:
       description: LeX conference brings together 180 top leaders, senior management,
         and specialists from the LeX program to commemorate 10 years of LeX
         milestones.
+      subtitle: ILF 2024 PARTNERS
+      title: LeX
   - infopic:
       id: infopic
       url: https://ichatspedu.sharepoint.com/teams/EETC2024?market=en-US

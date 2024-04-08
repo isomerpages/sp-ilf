@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: ILF Committee
+agency_name: the ILF Committee
 contacts:
   - content:
       - phone: ""
