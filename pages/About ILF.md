@@ -34,5 +34,5 @@ of which one is currently an SP staff. SP will be hosting the 2024 CDIO
 governing council working meeting.</p>
 </li>
 </ol>
-<p>You may click on each partner to find out more about them through the
-website.</p>
+<h4>You may click on each partner to find out more about them through the website.</h4>
+<p></p>
