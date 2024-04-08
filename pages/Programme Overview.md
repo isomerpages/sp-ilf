@@ -63,7 +63,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISATE speech by President Shunichi Taniai/NIT</p>
+<p>ISATE speech by Dr Taniguchi Isao/NIT</p>
 </td>
 </tr>
 <tr>
