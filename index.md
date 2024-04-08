@@ -15,7 +15,9 @@ sections:
       description: Bringing educators together to celebrate teaching and learning,
         connect to a wider community and collaborate in the areas of AI and
         Sustainability in Education
-      title: ILF 2024 Theme
+      title: Welcome to ILF 2024
+      url: /aboutilf/
+      button: find out more
   - infopic:
       id: infopic
       alt: Image alt text
