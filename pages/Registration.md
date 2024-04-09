@@ -11,9 +11,7 @@ description: ""
 <h1><strong>Sign up for ILF 2024</strong></h1>
 <p>If you are an ISATE 2024 participant, please click <a href="https://isate2024.sp.edu.sg/registration/" rel="noopener noreferrer nofollow" target="_blank">here</a> to register.
 <br>If you are a CDIO IWM participant, please click <a href="https://sp-cdio-centreforteaching.sp.edu.sg/cdio-iwm-2024/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register.
-<br>
-</p>
+register.</p>
 <table>
 <tbody>
 <tr>
@@ -60,6 +58,6 @@ lunches for Days 1 to 3, event materials, selected bus transport).</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Travel information:</strong>
+<p><strong>Travel information:</strong> 
 <br>Check if you need an <a href="https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements" rel="noopener noreferrer nofollow" target="_blank">Entry Visa</a>
 </p>
