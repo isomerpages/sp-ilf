@@ -30,5 +30,5 @@ description: ""
 </li>
 </ol>
 <h4>You may click on each partner to find out more about them through the website.</h4>
-<h4>For more information on the event programme, please click <a href="https://ilf2024.sp.edu.sg/aboutilf/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</h4>
+<h4>For more information on the event programme, please click <a href="https://ilf2024.sp.edu.sg/ilfprogramme/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</h4>
 <p></p>
