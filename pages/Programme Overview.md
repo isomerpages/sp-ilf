@@ -4,7 +4,11 @@ permalink: /ilfprogramme/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -14,7 +18,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1330 - 1730</p>
+<p>0900 - 1230</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>EETC 2024 (Open only to SP Staff and invited guests)</p>
@@ -27,7 +31,11 @@ description: ""
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -113,7 +121,11 @@ description: ""
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -163,7 +175,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1900 - 2200</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Conference Dinner (for conference-paying guests only)</p>
@@ -176,7 +188,11 @@ description: ""
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -223,7 +239,11 @@ description: ""
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">

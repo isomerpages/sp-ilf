@@ -9,14 +9,35 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hand_using_laptop_computer_lowres.jpg">
 </div>
 <h1><strong>Sign up for ILF 2024</strong></h1>
-<p>If you are an ISATE 2024 participant, please click <a href="https://isate2024.sp.edu.sg/registration/" rel="noopener noreferrer nofollow" target="_blank">here</a> to register.
-<br>If you are a CDIO IWM participant, please click <a href="https://sp-cdio-centreforteaching.sp.edu.sg/cdio-iwm-2024/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<ol data-tight="true" class="tight">
+<li>
+<p>For <strong>SP staff</strong>, registration will be via Workday. Please
+stay tuned for announcements regarding the registration details.</p>
+</li>
+<li>
+<p>If you are attending as a <strong>LeX </strong>participant, please refer
+to your respective LeX contact person for registration details.</p>
+</li>
+<li>
+<p>If you are attending as an <strong>ISATE 2024</strong> participant, please
+click <a href="https://isate2024.sp.edu.sg/registration/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register.</p>
-<table>
+</li>
+<li>
+<p>If you are attending as a <strong>CDIO IWM </strong>participant, please
+click <a href="https://sp-cdio-centreforteaching.sp.edu.sg/cdio-iwm-2024/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+</li>
+</ol>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>ISATE 2024 Registration Details</p>
+<p>Registration Details (For ISATE and IWM participants)</p>
 </th>
 </tr>
 <tr>
@@ -52,8 +73,7 @@ register.</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p>Fee is inclusive of 9% Goods &amp; Services Tax, and covers attendance
-at <strong>all</strong> ISATE events (including Banquet, 2 tea breaks &amp;
-lunches for Days 1 to 3, event materials, selected bus transport).</p>
+for <strong>all</strong> ISATE or IWM events.</p>
 </td>
 </tr>
 </tbody>
