@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>Terms of Use</strong></h1>
-<p>Singapore Polytechnic maintains this website as a service to its students,
+<p>Please refer to <a href="https://www.sp.edu.sg/sp/terms-of-use" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Polytechnic - Terms of Use</u></a>
+<br>
+<br>Singapore Polytechnic maintains this website as a service to its students,
 staff and members of the public. We invite you to visit our site often
 and to browse through our pages. You can also download and copy materials
 for your personal or educational use, but please note the restrictions
