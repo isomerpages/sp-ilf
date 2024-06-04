@@ -4,7 +4,7 @@ permalink: /privacy/
 variant: tiptap
 description: ""
 ---
-<h3><strong>SP Privacy Statement</strong></h3>
+<h3><strong>SP PRIVACY STATEMENT</strong></h3>
 <p>Please refer to <a href="https://www.sp.edu.sg/sp/privacy-statement" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Polytechnic - Privacy Statement</u></a>
 <br>
 <br>Singapore Polytechnic, as an educational institution in Singapore, subscribes
