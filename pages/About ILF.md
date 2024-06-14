@@ -10,7 +10,7 @@ description: ""
 <ol data-tight="true" class="tight">
 <li>
 <p></p>
-<h4><strong><a href="https://isate2024.sp.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">The International Symposium for Advances in Technology Education (ISATE)</a></strong> – an annual conference involving all 5 polytechnics in Singapore, Japanese national institutes of technology (similar to the polytechnics in Singapore) and a few other universities from Hong Kong and Finland. This conference, with an anticipated 200 participants, seeks to share best practices in the use of technology in enhancing student learning.<strong> </strong></h4>
+<h4><strong><a href="https://isate2024.sp.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">The International Symposium for Advances in Technology Education (ISATE)</a></strong> – an annual conference involving all 5 polytechnics in Singapore, Japanese national institutes of technology (similar to the polytechnics in Singapore) and a few other universities from Hong Kong and Finland. This conference, with an anticipated 200 participants, seeks to share best practices in the use of technology in enhancing student learning.</h4>
 <p></p>
 </li>
 <li>
