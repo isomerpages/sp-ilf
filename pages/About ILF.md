@@ -10,12 +10,12 @@ description: ""
 <ol data-tight="true" class="tight">
 <li>
 <p></p>
-<h4><strong>Excellence in Education &amp; Teaching Convention (EETC)</strong> – an annual SP event that celebrates the achievements of our education teaching.</h4>
+<h4><strong><a href="https://isate2024.sp.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">The International Symposium for Advances in Technology Education (ISATE)</a></strong> – an annual conference involving all 5 polytechnics in Singapore, Japanese national institutes of technology (similar to the polytechnics in Singapore) and a few other universities from Hong Kong and Finland. This conference, with an anticipated 200 participants, seeks to share best practices in the use of technology in enhancing student learning.<strong> </strong></h4>
 <p></p>
 </li>
 <li>
 <p></p>
-<h4><strong><a href="https://isate2024.sp.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">The International Symposium for Advances in Technology Education (ISATE)</a></strong> – an annual conference involving all 5 polytechnics in Singapore, Japanese national institutes of technology (similar to the polytechnics in Singapore) and a few other universities from Hong Kong and Finland. This conference, with an anticipated 200 participants, seeks to share best practices in the use of technology in enhancing student learning.</h4>
+<h4>SP is part of the <strong><a href="http://www.cdio.org/" rel="noopener noreferrer nofollow" target="_blank">international CDIO (conceive, design, implement and operate) consortium</a></strong> comprising 205 universities/institutions from all over the world as members. The purpose of CDIO is to promote collaboration in innovative teaching and learning practices. The CDIO governing council, about 30-strong, is led by 2 co-directors, of which one is currently an SP staff. SP will be hosting the 2024 CDIO governing council working meeting.</h4>
 <p></p>
 </li>
 <li>
@@ -25,7 +25,7 @@ description: ""
 </li>
 <li>
 <p></p>
-<h4>SP is part of the <strong><a href="http://www.cdio.org/" rel="noopener noreferrer nofollow" target="_blank">international CDIO (conceive, design, implement and operate) consortium</a></strong> comprising 205 universities/institutions from all over the world as members. The purpose of CDIO is to promote collaboration in innovative teaching and learning practices. The CDIO governing council, about 30-strong, is led by 2 co-directors, of which one is currently an SP staff. SP will be hosting the 2024 CDIO governing council working meeting.</h4>
+<h4><strong>Excellence in Education &amp; Teaching Convention (EETC)</strong> – an annual SP event that celebrates the achievements of our education teaching.</h4>
 <p></p>
 </li>
 </ol>
