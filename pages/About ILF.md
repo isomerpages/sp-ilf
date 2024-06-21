@@ -15,7 +15,7 @@ description: ""
 </li>
 <li>
 <p></p>
-<h4>SP is part of the <strong><a href="http://www.cdio.org/" rel="noopener noreferrer nofollow" target="_blank">international CDIO (conceive, design, implement and operate) consortium</a></strong> comprising 205 universities/institutions from all over the world as members. The purpose of CDIO is to promote collaboration in innovative teaching and learning practices. The CDIO governing council, about 30-strong, is led by 2 co-directors, of which one is currently an SP staff. SP will be hosting the 2024 CDIO governing council working meeting.</h4>
+<h4>SP is part of the <strong><a href="http://www.cdio.org/" rel="noopener noreferrer nofollow" target="_blank">CDIO (Conceive, Design, Implement and Operate) Worldwide Initiative</a></strong> comprising of more than 200 universities/institutions from all over the world as collaborators. The purpose of the CDIO Worldwide Initiative is to promote collaboration in innovative curriculum design and teaching and learning practices.</h4>
 <p></p>
 </li>
 <li>
