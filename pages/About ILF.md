@@ -15,7 +15,7 @@ description: ""
 </li>
 <li>
 <p></p>
-<h4>SP is part of the <strong><a href="http://www.cdio.org/" rel="noopener noreferrer nofollow" target="_blank">CDIO (Conceive, Design, Implement and Operate) Worldwide Initiative</a></strong> comprising of more than 200 universities/institutions from all over the world as collaborators. The purpose of the CDIO Worldwide Initiative is to promote collaboration in innovative curriculum design and teaching and learning practices.</h4>
+<h4>SP is part of the <strong><a href="https://sp-cdio-centreforteaching.sp.edu.sg/cdio-iwm-2024/" rel="noopener noreferrer nofollow" target="_blank">CDIO (Conceive, Design, Implement and Operate) Worldwide Initiative</a></strong> comprising of more than 200 universities/institutions from all over the world as collaborators. The purpose of the CDIO Worldwide Initiative is to promote collaboration in innovative curriculum design and teaching and learning practices. The CDIO council, is led by 2 co-directors, of which one is currently an SP staff. SP is also the CDIO regional co-lead for Asia since 2011. As part of the ILF, SP will be hosting the 2024 CDIO International Working Meeting (IWM).</h4>
 <p></p>
 </li>
 <li>
