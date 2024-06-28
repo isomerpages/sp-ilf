@@ -34,7 +34,7 @@ description: ""
 <p>Registration Fee = SGD $400 (approx. USD $300)</p>
 </li>
 <li>
-<p>Registration Period is between 15 June 2024 to 23 August 2024.</p>
+<p>Registration Period is between 15 June 2024 to 16 August 2024.</p>
 </li>
 </ul>
 </td>
@@ -44,7 +44,7 @@ description: ""
 <p>Registration Fee = SGD $450</p>
 </li>
 <li>
-<p>Registration Period is between 24 August 2024 to 15 September 2024.</p>
+<p>Registration Period is between 17 August 2024 to 15 September 2024.</p>
 </li>
 </ul>
 </td>
