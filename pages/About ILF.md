@@ -25,7 +25,7 @@ description: ""
 </li>
 <li>
 <p></p>
-<h4><strong>Excellence in Education &amp; Teaching Convention (EETC)</strong> – an annual SP event that celebrates the achievements of our education and teaching.</h4>
+<h4><strong>Excellence in Education &amp; Training Convention (EETC)</strong> – an annual SP event that celebrates the achievements of our education and teaching.</h4>
 <p></p>
 </li>
 </ol>
