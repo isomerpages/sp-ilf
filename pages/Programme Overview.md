@@ -79,7 +79,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Address by GOH Ms Gan Siow Huang Minister of State for Education</p>
+<p>Address by GOH</p>
 </td>
 </tr>
 <tr>
