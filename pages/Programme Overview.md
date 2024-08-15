@@ -71,7 +71,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISATE speech by Dr Taniguchi Isao/NIT</p>
+<p>Address by GOH</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +79,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Address by GOH</p>
+<p>ISATE speech by Dr Taniguchi Isao/NIT</p>
 </td>
 </tr>
 <tr>
