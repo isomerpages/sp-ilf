@@ -87,7 +87,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Presentation - Dr Ruth Graham</p>
+<p>Keynote Presentation - Dr Ruth Graham <a href="https://www.rhgraham.org/" rel="noopener noreferrer nofollow" target="_blank">https://www.rhgraham.org/</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -95,7 +96,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Presentation - Prof Kristina Edström</p>
+<p>Keynote Presentation - Prof Kristina Edström <a href="https://www.kth.se/profile/kristina" rel="noopener noreferrer nofollow" target="_blank">https://www.kth.se/profile/kristina</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +105,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Presentation - Dr Ong Yew Soon</p>
+<p>Keynote Presentation - Dr Ong Yew Soon <a href="https://dr.ntu.edu.sg/cris/rp/rp00092" rel="noopener noreferrer nofollow" target="_blank">https://dr.ntu.edu.sg/cris/rp/rp00092</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +149,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Sharing by Assoc. Prof Eric Chua</p>
+<p>Keynote Sharing by Assoc. Prof Eric Chua <a href="https://www.singaporetech.edu.sg/directory/faculty/eric-chua" rel="noopener noreferrer nofollow" target="_blank">https://www.singaporetech.edu.sg/directory/faculty/eric-chua</a>
+</p>
 </td>
 </tr>
 <tr>
