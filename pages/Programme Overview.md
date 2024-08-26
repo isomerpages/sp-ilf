@@ -79,7 +79,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISATE speech by Dr Taniguchi Isao/NIT <a href="/files/CV_Isao_Taniguchi__The_president_of_NIT__202405.pdf" rel="noopener nofollow" target="_blank">file</a>
+<p>ISATE speech by Dr Taniguchi Isao/NIT <a href="/files/CV_Isao_Taniguchi__The_president_of_NIT__202405.pdf" rel="noopener nofollow" target="_blank">Click to view CV</a>
 </p>
 </td>
 </tr>
