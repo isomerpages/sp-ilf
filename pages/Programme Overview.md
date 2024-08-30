@@ -79,7 +79,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISATE speech by Dr Taniguchi Isao/NIT <a href="/files/CV_Isao_Taniguchi__The_president_of_NIT__202405.pdf" rel="noopener nofollow" target="_blank">Click to view CV</a>
+<p>ISATE speech by<a href="/files/CV_Isao_Taniguchi__The_president_of_NIT__202405.pdf" rel="noopener nofollow" target="_blank"> Dr Taniguchi Isao/NIT</a>
 </p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Presentation - <a href="https://www.rhgraham.org/" rel="noopener nofollow" target="_blank">Dr Ruth Graham</a> 
+<p>Keynote Presentation - <a href="https://www.rhgraham.org/" rel="noopener nofollow" target="_blank">Dr Ruth Graham</a>
 </p>
 </td>
 </tr>
@@ -97,7 +97,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Presentation - <a href="https://www.kth.se/profile/kristina" rel="noopener nofollow" target="_blank">Prof Kristina Edström</a> 
+<p>Keynote Presentation - <a href="https://www.kth.se/profile/kristina" rel="noopener nofollow" target="_blank">Prof Kristina Edström</a>
 </p>
 </td>
 </tr>
@@ -106,7 +106,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Presentation - <a href="https://dr.ntu.edu.sg/cris/rp/rp00092" rel="noopener nofollow" target="_blank">Dr Ong Yew Soon</a> 
+<p>Keynote Presentation - <a href="https://dr.ntu.edu.sg/cris/rp/rp00092" rel="noopener nofollow" target="_blank">Dr Ong Yew Soon</a>
 </p>
 </td>
 </tr>
