@@ -88,7 +88,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Presentation - Dr Ruth Graham <a href="https://www.rhgraham.org/" rel="noopener noreferrer nofollow" target="_blank">https://www.rhgraham.org/</a>
+<p>Keynote Presentation - <a href="https://www.rhgraham.org/" rel="noopener nofollow" target="_blank">Dr Ruth Graham</a> 
 </p>
 </td>
 </tr>
@@ -97,7 +97,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Presentation - Prof Kristina Edström <a href="https://www.kth.se/profile/kristina" rel="noopener noreferrer nofollow" target="_blank">https://www.kth.se/profile/kristina</a>
+<p>Keynote Presentation - <a href="https://www.kth.se/profile/kristina" rel="noopener nofollow" target="_blank">Prof Kristina Edström</a> 
 </p>
 </td>
 </tr>
@@ -106,7 +106,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Presentation - Dr Ong Yew Soon <a href="https://dr.ntu.edu.sg/cris/rp/rp00092" rel="noopener noreferrer nofollow" target="_blank">https://dr.ntu.edu.sg/cris/rp/rp00092</a>
+<p>Keynote Presentation - <a href="https://dr.ntu.edu.sg/cris/rp/rp00092" rel="noopener nofollow" target="_blank">Dr Ong Yew Soon</a> 
 </p>
 </td>
 </tr>
