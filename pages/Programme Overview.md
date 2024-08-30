@@ -79,7 +79,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISATE speech by<a href="/files/CV_Isao_Taniguchi__The_president_of_NIT__202405.pdf" rel="noopener nofollow" target="_blank"> Dr Taniguchi Isao/NIT</a>
+<p>ISATE speech by <a href="/files/CV_Isao_Taniguchi__The_president_of_NIT__202405.pdf" rel="noopener nofollow" target="_blank">Dr Taniguchi Isao</a>
 </p>
 </td>
 </tr>
@@ -150,7 +150,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Sharing by Assoc. Prof Eric Chua <a href="https://www.singaporetech.edu.sg/directory/faculty/eric-chua" rel="noopener noreferrer nofollow" target="_blank">https://www.singaporetech.edu.sg/directory/faculty/eric-chua</a>
+<p>Keynote Sharing by <a href="https://www.singaporetech.edu.sg/directory/faculty/eric-chua" rel="noopener nofollow" target="_blank">Assoc. Prof Eric Chua</a> 
 </p>
 </td>
 </tr>
