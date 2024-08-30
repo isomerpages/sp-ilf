@@ -1,7 +1,7 @@
 ---
 title: Programme Overview
 permalink: /ilfprogramme/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <table style="minWidth: 50px">
@@ -79,7 +79,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISATE speech by Dr Taniguchi Isao/NIT <a href="/files/CV_Isao_Taniguchi__The_president_of_NIT__202405.pdf" rel="noopener nofollow" target="_blank">Click to view CV</a>
+<p>ISATE speech by <a href="/files/CV_Isao_Taniguchi__The_president_of_NIT__202405.pdf" rel="noopener nofollow" target="_blank">Dr Taniguchi Isao</a>
 </p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Presentation - Dr Ruth Graham <a href="https://www.rhgraham.org/" rel="noopener noreferrer nofollow" target="_blank">https://www.rhgraham.org/</a>
+<p>Keynote Presentation - <a href="https://www.rhgraham.org/" rel="noopener nofollow" target="_blank">Dr Ruth Graham</a>
 </p>
 </td>
 </tr>
@@ -97,7 +97,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Presentation - Prof Kristina Edström <a href="https://www.kth.se/profile/kristina" rel="noopener noreferrer nofollow" target="_blank">https://www.kth.se/profile/kristina</a>
+<p>Keynote Presentation - <a href="https://www.kth.se/profile/kristina" rel="noopener nofollow" target="_blank">Prof Kristina Edström</a>
 </p>
 </td>
 </tr>
@@ -106,7 +106,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Presentation - Dr Ong Yew Soon <a href="https://dr.ntu.edu.sg/cris/rp/rp00092" rel="noopener noreferrer nofollow" target="_blank">https://dr.ntu.edu.sg/cris/rp/rp00092</a>
+<p>Keynote Presentation - <a href="https://dr.ntu.edu.sg/cris/rp/rp00092" rel="noopener nofollow" target="_blank">Dr Ong Yew Soon</a>
 </p>
 </td>
 </tr>
@@ -150,7 +150,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Sharing by Assoc. Prof Eric Chua <a href="https://www.singaporetech.edu.sg/directory/faculty/eric-chua" rel="noopener noreferrer nofollow" target="_blank">https://www.singaporetech.edu.sg/directory/faculty/eric-chua</a>
+<p>Keynote Sharing by <a href="https://www.singaporetech.edu.sg/directory/faculty/eric-chua" rel="noopener nofollow" target="_blank">Assoc. Prof Eric Chua</a>
 </p>
 </td>
 </tr>
