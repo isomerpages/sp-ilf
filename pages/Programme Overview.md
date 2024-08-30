@@ -150,7 +150,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote Sharing by <a href="https://www.singaporetech.edu.sg/directory/faculty/eric-chua" rel="noopener nofollow" target="_blank">Assoc. Prof Eric Chua</a> 
+<p>Keynote Sharing by <a href="https://www.singaporetech.edu.sg/directory/faculty/eric-chua" rel="noopener nofollow" target="_blank">Assoc. Prof Eric Chua</a>
 </p>
 </td>
 </tr>
