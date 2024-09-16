@@ -1,7 +1,7 @@
 ---
 title: Programme Overview
 permalink: /ilfprogramme/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <table style="minWidth: 50px">
