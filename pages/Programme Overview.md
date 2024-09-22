@@ -1,7 +1,7 @@
 ---
 title: Programme Overview
 permalink: /ilfprogramme/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <table style="minWidth: 50px">
@@ -44,18 +44,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>0900 - 1730</p>
+<p>0800 - 0850</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Arrival &amp; Registration</p>
+<p>Arrival &amp; Registration at SPCC; Guests to be seated by 8.50 AM</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>0900 - 1230</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ILF 2024 Opening Ceremony</p>
+<p>ILF 2024 Opening Ceremony commences</p>
 </td>
 </tr>
 <tr>
@@ -97,6 +97,14 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Tea Break</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Keynote Presentation - <a href="https://www.kth.se/profile/kristina" rel="noopener nofollow" target="_blank">Prof Kristina Edström</a>
 </p>
 </td>
@@ -112,10 +120,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1230 - 1400</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISATE Paper Presentations</p>
+<p>Lunch</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1400 - 1730</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISATE Paper Presentations at T12</p>
 </td>
 </tr>
 <tr>
@@ -139,10 +155,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>0900 - 1730</p>
+<p>0800 - 0850</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Arrival &amp; Registration</p>
+<p>Arrival &amp; Registration at SPCC; Guests to be seated by 8.50 AM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>0900 - 1030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Day 2 Programme commences</p>
 </td>
 </tr>
 <tr>
@@ -164,18 +188,35 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1030 - 1100</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Exhibition: Gen AI for Teaching &amp; Learning</p>
+<p>Tea Break</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1100 - 1230</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISATE Paper Presentations &amp; IWM Sessions</p>
+<p><a href="/gen-ai-exhibition/" rel="noopener nofollow" target="_blank">Gen AI Exhibition</a> for
+Teaching &amp; Learning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1230 - 1400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lunch</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1400 - 1730</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gen AI Exhibition, ISATE Paper Presentations &amp; IWM Sessions</p>
 </td>
 </tr>
 <tr>
@@ -207,15 +248,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>0900 - 1730</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Arrival &amp; Registration</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>0900 - 1030</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISATE Paper Presentations &amp; IWM Sessions</p>
@@ -223,7 +256,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1030 - 1100</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tea Break</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1100 - 1230</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Roundtable Discussion</p>
@@ -231,10 +272,34 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1230 - 1400</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ILF 2024 Closing Ceremony</p>
+<p>Lunch</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1400 - 1530</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISATE Paper Presentations &amp; IWM Sessions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1530 - 1600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tea Break</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1600 - 1700</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ILF 2024 Closing Ceremony for ISATE Attendees</p>
 </td>
 </tr>
 <tr>
@@ -258,19 +323,29 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>0900 - 1200</p>
+<p>0800 - 0830</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learning Journeys</p>
+<p>Arrival and attendance of participants</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>0830 - 1200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learning Journeys to respective venues</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>As the various learning journeys &amp; workshops begin at different times,
+confirmed participants would have received an email indicating the exact
+reporting times.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Please check back soon for more details.</p>
+<p></p>
 <p></p>
 <p></p>
