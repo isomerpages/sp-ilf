@@ -1,7 +1,7 @@
 ---
 title: Programme Overview
 permalink: /ilfprogramme/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <table style="minWidth: 50px">
@@ -167,7 +167,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Exhibition: Gen AI for Teaching &amp; Learning</p>
+<p><a href="/gen-ai-exhibition/" rel="noopener nofollow" target="_blank">Gen AI Exhibition</a> for
+Teaching &amp; Learning</p>
 </td>
 </tr>
 <tr>
