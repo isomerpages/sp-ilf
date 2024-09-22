@@ -37,6 +37,7 @@ description: ""
 <p>Registration Period is between 15 June 2024 to 16 August 2024.</p>
 </li>
 </ul>
+<p>[<strong>Registration has closed</strong>]</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -45,6 +46,7 @@ description: ""
 </li>
 <li>
 <p>Registration Period is between 17 August 2024 to 15 September 2024.</p>
+<p>[<strong>Registration has closed</strong>]</p>
 </li>
 </ul>
 </td>
@@ -59,27 +61,17 @@ for <strong>all</strong> ISATE or IWM events.</p>
 </table>
 <ol data-tight="true" class="tight">
 <li>
-<p>If you are attending as an <strong>ISATE 2024</strong> participant, please
-click <a href="https://isate2024.sp.edu.sg/registration/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register.</p>
-</li>
-<li>
-<p>If you are attending as a <strong>CDIO IWM </strong>participant, please
-click <a href="https://sp-cdio-centreforteaching.sp.edu.sg/cdio-iwm-2024/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register.</p>
+<p>If you are attending the event as an ISATE or CDIO participant, kindly
+reach out to your respective organisation committee if you require assistance.</p>
 </li>
 <li>
 <p>If you are attending as a <strong>LeX </strong>participant, please refer
-to your respective LeX contact person for registration details.</p>
+to your respective LeX contact person for assistance.</p>
 </li>
 <li>
-<p>For <strong>SP staff</strong>, registration will be via Workday. Please
-stay tuned for announcements regarding the registration details.</p>
-</li>
-<li>
-<p>If you are not any of the above participants and wish to attend ILF 2024
-please <a href="https://gateway.flywire.com/v1/transfers?provider=LFJ&amp;payment_destination=ilf2024" rel="noopener noreferrer nofollow" target="_blank">click here</a> to
-register.</p>
+<p>For <strong>SP staff</strong>, registration will be via Workday. For information
+on the programmes SP staff are eligible to attend, kindly reach out to
+ILF2024@sp.edu.sg.</p>
 </li>
 </ol>
 <p><strong>Travel information:</strong> 
