@@ -131,7 +131,8 @@ description: ""
 <p>1400 - 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISATE Paper Presentations at T12</p>
+<p><a href="https://isate2024.sp.edu.sg/programme/" rel="noopener nofollow" target="_blank">ISATE Paper Presentations</a> at
+T12</p>
 </td>
 </tr>
 <tr>
@@ -216,7 +217,8 @@ Teaching &amp; Learning</p>
 <p>1400 - 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gen AI Exhibition, ISATE Paper Presentations &amp; IWM Sessions</p>
+<p>Gen AI Exhibition, <a href="https://isate2024.sp.edu.sg/programme/" rel="noopener nofollow" target="_blank">ISATE Paper Presentations</a> &amp;
+IWM Sessions</p>
 </td>
 </tr>
 <tr>
@@ -251,7 +253,8 @@ Teaching &amp; Learning</p>
 <p>0900 - 1030</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISATE Paper Presentations &amp; IWM Sessions</p>
+<p><a href="https://isate2024.sp.edu.sg/programme/" rel="noopener nofollow" target="_blank">ISATE Paper Presentations</a> &amp;
+IWM Sessions</p>
 </td>
 </tr>
 <tr>
@@ -267,7 +270,8 @@ Teaching &amp; Learning</p>
 <p>1100 - 1230</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Roundtable Discussion</p>
+<p><a href="https://isate2024.sp.edu.sg/roundtables-learning-journeys-and-workshops/" rel="noopener nofollow" target="_blank">ISATE Roundtable Discussions</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -283,7 +287,8 @@ Teaching &amp; Learning</p>
 <p>1400 - 1530</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISATE Paper Presentations &amp; IWM Sessions</p>
+<p><a href="https://isate2024.sp.edu.sg/programme/" rel="noopener nofollow" target="_blank">ISATE Paper Presentations</a> &amp;
+IWM Sessions</p>
 </td>
 </tr>
 <tr>
