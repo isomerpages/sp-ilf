@@ -328,7 +328,7 @@ IWM Sessions</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>0800 - 0830</p>
+<p>0800 - 0900</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Arrival and attendance of participants</p>
