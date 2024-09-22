@@ -57,8 +57,9 @@ sections:
       description: The event that recognizes the contributions of educators and all
         who help create a conducive learning environment in Singapore
         Polytechnic.
-      subtitle: Website Coming Soon!
+      subtitle: ILF 2024 Partners
       title: EETC
+      button: Learn More
   - infobar:
       title: EETC 2023
       id: infobar
