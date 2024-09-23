@@ -137,6 +137,7 @@ T12</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p></p>
 <p><strong>Keynote Presentation - Dr Ruth Graham</strong>
 <br><strong>Higher education in transition: global trends and best practices</strong>
 <br>This keynote will explore global best practices in university education
@@ -224,7 +225,31 @@ digital and interconnected world.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Institutional Speakers from ISATE institutions</p>
+<p>Institutional Speakers from ISATE institutions - Dr Lim De Yang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Institutional Speakers from ISATE institutions - Dr Michael Wang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Institutional Speakers from ISATE institutions - Dr Nobuo Araki</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Institutional Speakers from ISATE institutions - Ms Mari Ketola</p>
 </td>
 </tr>
 <tr>
@@ -271,6 +296,7 @@ IWM Sessions</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p></p>
 <p><strong>Keynote Presentation - Assoc. Prof Eric Chua</strong>
 <br>This keynote explores how AI can be used for student development in higher
 education. It covers some theoretical foundations of coaching as a tool
