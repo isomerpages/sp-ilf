@@ -279,9 +279,7 @@ and current challenges. The talk will focus on providing practical use
 cases of AI tools for coaching, such as AI-powered learning assistants
 and study coaches. The talk will also address some of the ethical considerations,
 and will conclude by encouraging educators to explore how AI can augment
-human coaching.
-<br>
-</p>
+human coaching.</p>
 </td>
 </tr>
 </tbody>
