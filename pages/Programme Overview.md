@@ -218,14 +218,7 @@ evolving digital and interconnected world.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Keynote Sharing by <a href="https://www.singaporetech.edu.sg/directory/faculty/eric-chua" rel="noopener nofollow" target="_blank">Assoc. Prof Eric Chua</a>
-<br>
-<br>This keynote explores how AI can be used for student development in higher
-education. It covers some theoretical foundations of coaching as a tool
-and current challenges. The talk will focus on providing practical use
-cases of AI tools for coaching, such as AI-powered learning assistants
-and study coaches. The talk will also address some of the ethical considerations,
-and will conclude by encouraging educators to explore how AI can augment
-human coaching.</p>
+</p>
 </td>
 </tr>
 <tr>
