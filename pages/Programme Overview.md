@@ -106,8 +106,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Keynote Presentation - <a href="https://www.kth.se/profile/kristina" rel="noopener nofollow" target="_blank">Prof Kristina Edström</a>
-<br>
-<br>
 </p>
 </td>
 </tr>
@@ -174,12 +172,12 @@ to his talk is the belief that "there’s no incapable student, only unmotivated
 ones." Drawing on 22 years of teaching experience, Prof. Ong will present
 a set of principles developed through his extensive teaching career and
 aligned with MOE’s 21st Century Competencies framework.</p>
-<p>&nbsp;Prof. Ong will share how he harnesses principles of motivation to
-create dynamic and engaging learning environments that captivate students
-both in and out of the classroom. By showcasing real-world applications
-and success stories, he will demonstrate how educators can leverage AI
-and game-based strategies to empower students to excel in an increasingly
-evolving digital and interconnected world.</p>
+<p>Prof. Ong will share how he harnesses principles of motivation to create
+dynamic and engaging learning environments that captivate students both
+in and out of the classroom. By showcasing real-world applications and
+success stories, he will demonstrate how educators can leverage AI and
+game-based strategies to empower students to excel in an increasingly evolving
+digital and interconnected world.</p>
 </td>
 </tr>
 </tbody>
@@ -280,9 +278,7 @@ and current challenges. The talk will focus on providing practical use
 cases of AI tools for coaching, such as AI-powered learning assistants
 and study coaches. The talk will also address some of the ethical considerations,
 and will conclude by encouraging educators to explore how AI can augment
-human coaching.
-<br>
-</p>
+human coaching.</p>
 </td>
 </tr>
 </tbody>
@@ -402,6 +398,5 @@ reporting times.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p></p>
