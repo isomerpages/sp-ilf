@@ -89,23 +89,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Keynote Presentation - <a href="https://www.rhgraham.org/" rel="noopener nofollow" target="_blank">Dr Ruth Graham</a>
-<br>
-<br><strong>Higher education in transition: global trends and best practices</strong>
 </p>
-<p>This keynote will explore global best practices in university education
-and future directions for the sector.&nbsp; The past decade has seen root-and-branch
-changes in the design and focus of undergraduate engineering programmes
-across the world.&nbsp; Drawing on examples from the field of engineering,
-the keynote will examine new educational priorities emerging in leading-edge
-institutions worldwide.&nbsp; Many of these solutions integrate technology
-with immersive, experiential, and active face-to-face learning.</p>
-<p>The keynote will also highlight the facilitators and barriers to systemic
-educational change and the strategies developed by leading universities
-to address them.&nbsp; This includes the growing momentum for change in
-how universities reward contributions to teaching and learning in academic
-careers.&nbsp; It is these developments –&nbsp;in both educational practice
-and the systems that support it –&nbsp;that leading universities are preparing
-themselves for the future.</p>
 </td>
 </tr>
 <tr>
@@ -123,12 +107,8 @@ themselves for the future.</p>
 <td rowspan="1" colspan="1">
 <p>Keynote Presentation - <a href="https://www.kth.se/profile/kristina" rel="noopener nofollow" target="_blank">Prof Kristina Edström</a>
 <br>
-<br>The work of engineers has contributed to enormous&nbsp;economic and social
-progress, but the development has&nbsp;also produced unintended&nbsp;impacts,
-some on global and intergenerational scale. So how can we now&nbsp;educate
-eengineers to contribute&nbsp;to sustainability? Kristina Edström will
-discuss key&nbsp;principles for meaningfully integrating sustainability
-into engineering curricula, drawing on implementations in a range of universities.</p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -137,22 +117,7 @@ into engineering curricula, drawing on implementations in a range of universitie
 </td>
 <td rowspan="1" colspan="1">
 <p>Keynote Presentation - <a href="https://dr.ntu.edu.sg/cris/rp/rp00092" rel="noopener nofollow" target="_blank">Dr Ong Yew Soon</a>
-<br>
-<br>In his keynote titled <strong>"</strong>Harnessing Motivation to Ignite
-Learning: AI and Game-Based Strategies for Motivating Students," Professor
-Ong Yew Soon will delve into the transformative potential of Artificial
-Intelligence (AI) and game-based learning in higher education, focusing
-on how these tools can enhance student motivation and engagement. Central
-to his talk is the belief that "there’s no incapable student, only unmotivated
-ones." Drawing on 22 years of teaching experience, Prof. Ong will present
-a set of principles developed through his extensive teaching career and
-aligned with MOE’s 21st Century Competencies framework.</p>
-<p>Prof. Ong will share how he harnesses principles of motivation to create
-dynamic and engaging learning environments that captivate students both
-in and out of the classroom. By showcasing real-world applications and
-success stories, he will demonstrate how educators can leverage AI and
-game-based strategies to empower students to excel in an increasingly evolving
-digital and interconnected world.</p>
+</p>
 </td>
 </tr>
 <tr>
@@ -174,7 +139,47 @@ T12</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p><strong>Keynote Presentation - Dr Ruth Graham</strong>
+<br><strong>Higher education in transition: global trends and best practices</strong>
+<br>This keynote will explore global best practices in university education
+and future directions for the sector.&nbsp; The past decade has seen root-and-branch
+changes in the design and focus of undergraduate engineering programmes
+across the world.&nbsp; Drawing on examples from the field of engineering,
+the keynote will examine new educational priorities emerging in leading-edge
+institutions worldwide.&nbsp; Many of these solutions integrate technology
+with immersive, experiential, and active face-to-face learning.</p>
+<p>The keynote will also highlight the facilitators and barriers to systemic
+educational change and the strategies developed by leading universities
+to address them.&nbsp; This includes the growing momentum for change in
+how universities reward contributions to teaching and learning in academic
+careers.&nbsp; It is these developments –&nbsp;in both educational practice
+and the systems that support it –&nbsp;that leading universities are preparing
+themselves for the future.
+<br>
+<br><strong>Keynote Presentation - Prof Kristina Edström</strong>
+<br>The work of engineers has contributed to enormous&nbsp;economic and social
+progress, but the development has&nbsp;also produced unintended&nbsp;impacts,
+some on global and intergenerational scale. So how can we now&nbsp;educate
+eengineers to contribute&nbsp;to sustainability? Kristina Edström will
+discuss key&nbsp;principles for meaningfully integrating sustainability
+into engineering curricula, drawing on implementations in a range of universities.
+<br>
+<br><strong>Keynote Presentation - Dr Ong Yew Soon</strong>
+<br>In his keynote titled <strong>"</strong>Harnessing Motivation to Ignite
+Learning: AI and Game-Based Strategies for Motivating Students," Professor
+Ong Yew Soon will delve into the transformative potential of Artificial
+Intelligence (AI) and game-based learning in higher education, focusing
+on how these tools can enhance student motivation and engagement. Central
+to his talk is the belief that "there’s no incapable student, only unmotivated
+ones." Drawing on 22 years of teaching experience, Prof. Ong will present
+a set of principles developed through his extensive teaching career and
+aligned with MOE’s 21st Century Competencies framework.</p>
+<p>&nbsp;Prof. Ong will share how he harnesses principles of motivation to
+create dynamic and engaging learning environments that captivate students
+both in and out of the classroom. By showcasing real-world applications
+and success stories, he will demonstrate how educators can leverage AI
+and game-based strategies to empower students to excel in an increasingly
+evolving digital and interconnected world.</p>
 </td>
 </tr>
 </tbody>
