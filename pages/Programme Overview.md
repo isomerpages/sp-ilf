@@ -174,12 +174,12 @@ to his talk is the belief that "there’s no incapable student, only unmotivated
 ones." Drawing on 22 years of teaching experience, Prof. Ong will present
 a set of principles developed through his extensive teaching career and
 aligned with MOE’s 21st Century Competencies framework.</p>
-<p>&nbsp;Prof. Ong will share how he harnesses principles of motivation to
-create dynamic and engaging learning environments that captivate students
-both in and out of the classroom. By showcasing real-world applications
-and success stories, he will demonstrate how educators can leverage AI
-and game-based strategies to empower students to excel in an increasingly
-evolving digital and interconnected world.</p>
+<p>Prof. Ong will share how he harnesses principles of motivation to create
+dynamic and engaging learning environments that captivate students both
+in and out of the classroom. By showcasing real-world applications and
+success stories, he will demonstrate how educators can leverage AI and
+game-based strategies to empower students to excel in an increasingly evolving
+digital and interconnected world.</p>
 </td>
 </tr>
 </tbody>
@@ -274,7 +274,8 @@ IWM Sessions</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>Keynote Presentation - Assoc. Prof Eric Chua</strong>
-<br>This keynote explores how AI can be used for student development in higher
+</p>
+<p>This keynote explores how AI can be used for student development in higher
 education. It covers some theoretical foundations of coaching as a tool
 and current challenges. The talk will focus on providing practical use
 cases of AI tools for coaching, such as AI-powered learning assistants
