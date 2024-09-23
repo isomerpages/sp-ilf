@@ -106,8 +106,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Keynote Presentation - <a href="https://www.kth.se/profile/kristina" rel="noopener nofollow" target="_blank">Prof Kristina Edström</a>
-<br>
-<br>
 </p>
 </td>
 </tr>
