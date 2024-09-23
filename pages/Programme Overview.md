@@ -273,7 +273,16 @@ IWM Sessions</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p><strong>Keynote Presentation - Assoc. Prof Eric Chua</strong>
+<br>This keynote explores how AI can be used for student development in higher
+education. It covers some theoretical foundations of coaching as a tool
+and current challenges. The talk will focus on providing practical use
+cases of AI tools for coaching, such as AI-powered learning assistants
+and study coaches. The talk will also address some of the ethical considerations,
+and will conclude by encouraging educators to explore how AI can augment
+human coaching.
+<br>
+</p>
 </td>
 </tr>
 </tbody>
